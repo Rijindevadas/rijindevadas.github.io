@@ -1,32 +1,32 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Hey, I'm Rijindas P (Sonu)  
+**AI Developer | Data Science Learner | Dreaming Big, Building Bigger**
 
+I'm passionate about creating real-world AI/ML projects in:
+- Arabic NLP
+- Stock Market Prediction
+- AI apps for the GCC region
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+Currently focused on mastering AI and building practical, impactful projects one step at a time.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+---
 
-(* = not included)
+### 🚀 Current Projects
+- **[Titanic ML Prediction](https://www.kaggle.com/rijindasp)** – Kaggle classic starter project
+- **Arabic Text Classifier** – In progress
+- **GCC Stock Market AI** – Coming soon (Big project)
 
-AJ
-aj@lkn.io | @ajlkn
+---
 
+### ⚙️ Tools & Skills
+`Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn` `NLP` `Git` `GitHub` `Kaggle`
 
-Credits:
+---
 
-	Demo Images:
-		Unsplash (unsplash.com)
+### 🔗 Connect
+- **Kaggle**: [Rijindas P](https://www.kaggle.com/rijindasp)
+- **GitHub**: [rijindevadas](https://github.com/rijindevadas)
+- **Portfolio Website**: Coming soon...
 
-	Icons:
-		Font Awesome (fontawesome.io)
+---
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Let’s build it from scratch. One repo at a time!
