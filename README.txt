@@ -1,4 +1,4 @@
-# Hey, I'm Rijindas P (Sonu)  
+# Hey, I'm Rijindas P 
 **AI Developer | Data Science Learner | Dreaming Big, Building Bigger**
 
 I'm passionate about creating real-world AI/ML projects in:
